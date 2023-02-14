@@ -19,6 +19,9 @@ export default defineAppConfig({
     },
     github: {
       root: 'content',
+      branch: 'main',
+      repo: 'github-f2znsf',
+      owner: 'focaloid-dev',
       edit: true,
       contributors: false,
     },
